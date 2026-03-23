@@ -27,7 +27,7 @@ We are open to co-creating. If you want to contribute to our open-source project
 
 1. Read our [Code of Conduct](../CODE_OF_CONDUCT.md) to understand our community values (ethics by default, respect for sovereign data).
 2. Check out our [Contributing Guidelines](../CONTRIBUTING.md) for how to open issues or submit PRs.
-3. Jump into the Discord and introduce yourself in the `#introductions` channel!
+3. Jump into the [Discord](https://discord.gg/vwZzFHpWQ8) and introduce yourself in the `#introductions` channel!
 
 ---
 
